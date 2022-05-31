@@ -3,5 +3,4 @@ hello world
 2
 3
 45
-6
 hot-fix2
